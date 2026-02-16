@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ingo-os/ingo/main/assets/logo_main.png" width="200" alt="Ingo OS Logo">
+  <img src="https://raw.githubusercontent.com/ingo-os/.github/main/profile/assets/logo.png" width="200" alt="Ingo OS Logo">
 </p>
 
 <h1 align="center">Ingo OS</h1>
